@@ -39,13 +39,13 @@ The project is separated into several parts, and you will be able to achieve pro
 
 
 
-![project1](project1.png)
+![project1](project1.PNG)
 
 
 
 
 
-![project2](project2.png)
+![project2](project2.PNG)
 
 
 ### Learning outcomes:
