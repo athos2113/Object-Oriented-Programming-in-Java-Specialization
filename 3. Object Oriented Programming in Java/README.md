@@ -36,7 +36,13 @@ To create this project, you’ll be working with a package called Unfolding Maps
 
 The project is separated into several parts, and you will be able to achieve project milestones as you work through the modules in the course. Throughout the project, we’ve suggested extensions and ideas for adding extra features to your project. Have fun with it and make it your own. At the end of the course, you’ll have the opportunity to showcase your creation and see what your peers have built too.
 
+
+
+
 ![project1](project1.png)
+
+
+
 
 
 ![project2](project2.png)
