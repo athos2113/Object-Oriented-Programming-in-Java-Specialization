@@ -1,6 +1,6 @@
 # Object Oriented Programming in Java Specialization
 
-![logo](logo.PNG)
+![logo](logo.png)
 
 [Specialization Link](https://www.coursera.org/specializations/object-oriented-programming)
 
@@ -9,10 +9,10 @@ About this specialization:
 
 This program is Offered by :
 
-![duke](uni1.PNG)
+![duke](uni1.png)
 
 
-![ucsd](uni2.PNG)
+![ucsd](uni2.png)
 
 ## There are 4 Courses in this Specialization
 
